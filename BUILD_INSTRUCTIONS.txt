@@ -1,0 +1,7 @@
+Run:
+flutter create .
+flutter pub get
+flutter build apk --release
+
+Then install:
+build/app/outputs/flutter-apk/app-release.apk
